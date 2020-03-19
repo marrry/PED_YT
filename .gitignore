@@ -134,5 +134,5 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
-#data folder
-youtube-data/
+# data folder
+youtube_data/
